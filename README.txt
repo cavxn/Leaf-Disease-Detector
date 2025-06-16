@@ -1,0 +1,1 @@
+Place your 'final_leaf_disease_model.keras' and test leaf image in this folder.
